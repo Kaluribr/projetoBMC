@@ -46,7 +46,7 @@
 
 
 # BEM ME CARE
-Bem Me Care é uma loja virtual criada com o intuito de trazer produtos de higiene intima para pessoas que menstruam. Além disso, parte das vendas são destinadas para ajudar a combater a pobreza menstrual no Brasil. 
+Bem Me Care é uma loja virtual criada com o intuito de trazer produtos de higiene íntima para pessoas que menstruam. Além disso, parte das vendas são destinadas para combater a pobreza menstrual no Brasil. 
 
 ## Produtos
 
@@ -69,18 +69,20 @@ Fazemos entregas
 # Nossa missão
 
  É a de trazer acesso e dignidade para as pessoas que sofrem com a pobreza menstrual.
- Estamos comprometidos em fornecer produtos de higiene intima de boa qualidade para que possamos melhorar a qualidade de vida dessas pessoas. Além disso, estamos trabalhando para fornecer esses produtos gratuitamente para escolas, para que as pessoas possam ter acesso a eles.
-Ao adquirir produtos em nossa loja, você estará contribuindo para ajudar a combater a pobreza menstrual no Brasil. Nós nos comprometemos em utilizar parte das vendas para fornecer produtos gratuitamente para as escolas, para que as meninas não sejam impedidas de frequentar a escola por causa da falta de produtos de higiene íntima.
+ Estamos comprometidos em fornecer produtos de higiene íntima de boa qualidade para podermos melhorar a qualidade de vida dessas pessoas. Além disso, estamos trabalhando para fornecer esses produtos gratuitamente para escolas, para que as pessoas possam ter acesso a eles.
+Ao adquirir produtos em nossa loja, você estará contribuindo para combater a pobreza menstrual no Brasil. Nós nos comprometemos em utilizar parte das vendas para fornecer produtos gratuitamente para as escolas, para que as meninas não sejam impedidas de frequentar a escola devido à falta de produtos de higiene íntima.
 Juntos, nós podemos ajudar a dar dignidade e acesso à educação para quem sofre com a pobreza menstrual no Brasil. Agradecemos por sua contribuição para a causa e por comprar em nossa loja.
 #FiqueLigado #BemMeCare #PobrezaMenstrual #Educação
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/91226847/227217398-24ca6582-e6c6-4697-b9c9-c2289a808c61.png" width="800">
 </div>
 
 ## A Pobreza Menstrual no Brasil
-Estima-se que mais de 50% das mulheres não têm acesso a produtos de higiene íntima e são obrigadas a usar métodos improvisados, o que frequentemente leva a infecções graves.
-🤒 Além disso, muitas vezes as alunas não estão preparadas para lidar com a menstruação e acabam faltando às aulas. 🤦‍♀️</br>
+Estima-se que mais de 50% das mulheres não têm acesso a produtos de higiene íntima, sendo obrigadas a usar métodos improvisados, o que frequentemente leva a infecções graves.
+🤒 Além disso, muitas vezes as alunas não estão preparadas para lidar com a menstruação e acabam faltando às aulas.
+ 🤦‍♀️</br>
 <img src="https://user-images.githubusercontent.com/91226847/227224050-6048b3d4-fb55-4552-9d74-d7ff487aa5c4.png" height="450" width="802"/>
 
 ## Desenvolvimento do Projeto
@@ -105,7 +107,7 @@ Estima-se que mais de 50% das mulheres não têm acesso a produtos de higiene í
 
 ## Conclusão
 <p>
-A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a preços acessíveis, com o objetivo de ajudar na luta contra a pobreza menstrual no Brasil. 🙌 Juntemos forças para dar dignidade e acesso à educação para as meninas que sofrem com a pobreza menstrual no Brasil. 🤝 Agradecemos por sua contribuição para a causa e por comprar em nossa loja. #FiqueLigado #BemMeCare #EmpoderandoMulheres #PobrezaMenstrual #EducaçãoParaTodas 
+A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a preços acessíveis, visando ajudar na luta contra a pobreza menstrual no Brasil. 🙌 Juntemos forças para dar dignidade e acesso à educação para as meninas que sofrem com a pobreza menstrual no Brasil. 🤝 Agradecemos por sua contribuição para a causa e por comprar em nossa loja. #FiqueLigado #BemMeCare #EmpoderandoMulheres #PobrezaMenstrual #EducaçãoParaTodas 
 💜
 </p>
 
